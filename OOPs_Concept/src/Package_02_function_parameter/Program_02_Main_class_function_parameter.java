@@ -9,9 +9,9 @@ public class Program_02_Main_class_function_parameter {
 	// ki vhabe eki functionk parameter use kore bar bar use korte pari..	
 		
 		Program_01_Addclass objectholder = new Program_01_Addclass();
-		objectholder.add(250,200);
+		objectholder.add(300,200);
 		objectholder.mul(600,500);
-		objectholder.myclass(30,30);
+		objectholder.myclass(300,30);
 			
 		
 

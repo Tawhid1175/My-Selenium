@@ -29,7 +29,7 @@ public class Easy_way {
 		
 		Easy_way obj = new Easy_way();
 		obj.setAlam("MD Tawhidul alam");
-		obj.setAlamsalary(32);
+		obj.setAlamsalary(3200);
 		
 		
 		System.out.println(obj.getAlam());
